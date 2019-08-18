@@ -1,5 +1,5 @@
 # DynamicProcessManagement
-Manage processes in Master/Slave mana with OpenMPI.
+Manage processes in Master/Slave manner with OpenMPI.
 ## Features
 + Create any number of processes on the initial phase or on the fly
 + Terminate specific process
